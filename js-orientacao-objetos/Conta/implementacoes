@@ -1,0 +1,5 @@
+//Gerente, Diretor
+
+//nome, salario, cpf, bonificacao (diferente para cada cargo), senha
+
+//autenticar, cadastrarSenha
